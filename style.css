@@ -1,0 +1,23 @@
+table{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    height: 100px;
+    width: 300px;
+    white-space: nowrap;
+}
+
+thead.moda{
+    background-color: #BB86FC;
+}
+tbody.moda{
+    background-color: #424250;
+}
+
+thead.casa{
+    background-color: #00C4B4;
+}
+
+tbody.casa{
+    background-color: #424250;
+}
